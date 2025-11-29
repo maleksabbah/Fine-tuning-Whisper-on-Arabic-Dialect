@@ -84,7 +84,7 @@ Per-segment error reports
 └── README.md
 
 📦 Installation
-git clone https://github.com/yourusername/ai-dubbing-whisper-pipeline.git
+git clone https://github.com/maleksabbahh/Fine-tuning-whisper.git
 cd ai-dubbing-whisper-pipeline
 pip install -r requirements.txt
 
